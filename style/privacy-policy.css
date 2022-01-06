@@ -1,0 +1,17 @@
+body{
+    text-align: justify;
+    font-family: Poppins;
+}
+
+h3{
+    margin-top: 25px;
+    text-align: center;
+    font-weight: bold;
+}
+h5{
+    font-weight: bold;
+    font-size: 15px;
+}
+/* .container{
+    width: 720px;
+} */
